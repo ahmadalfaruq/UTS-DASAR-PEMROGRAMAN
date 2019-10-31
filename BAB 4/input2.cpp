@@ -10,7 +10,7 @@ int main()
     cout<<"=============================================\n\n";
     cout<<"Nama : ";
     cin.getline(panjang_data,50);
-    cout<<"Jurusan: Teknik informatika - UNISKA Banjarmasin";
+    cout<<"Jurusan: Teknik informatika - STMIK-SUMEDANG ";
     cin.getline(tampilkan,1);
 
     return 0;
